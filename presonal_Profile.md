@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vighnesh Prabhu.
 - 👀 I’m interested in full stack devlopment and data science.
 - 🌱 I’m currently learning Computer Science at CSU Monterey Bay.
-- 💞️ I’m looking to collaborate on Angular based projects.
+- 💞️ I’m looking to collaborate on Angular and flutter based projects. And, I am looking to learn react as well.
 - 📫 How to reach me vprabhu@csumb.edu
 
 <!---

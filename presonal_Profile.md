@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Vighnesh Prabhu.
-- 👀 I’m interested in full stack devlopment and data science.
-- 🌱 I’m currently learning Computer Science at CSU Monterey Bay.
-- 💞️ I’m looking to collaborate on Angular and flutter based projects. And, I am looking to learn react as well.
+- 👀 I’m interested in full stack devlopment and AI Engineering.
+- 🌱 I’m currently working as SAG-AFTRA Plans.
+- 💞️ I’m looking to collaborate on springboot projects, springboot AI projects & RAG projects for internal tool.
 -  📫 How to reach me:
-           Email : vprabhu@csumb.edu 
+           Email : prabhuvighneshcsumb@gmail.com
            Linkedln : https://www.linkedin.com/in/vighnesh-prabhu-ggwp/
 
 <!---

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vighnesh Prabhu.
-- 👀 I’m interested in full stack devlopment and AI Engineering.
+- 👀 I’m interested in Software Development and AI Engineering.
 - 🌱 I’m currently working as SAG-AFTRA Plans.
 - 💞️ I’m looking to collaborate on springboot projects, springboot AI projects & RAG projects for internal tool.
 -  📫 How to reach me:

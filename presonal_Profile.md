@@ -5,7 +5,6 @@
 -  📫 How to reach me:
            Email : vprabhu@csumb.edu 
            Linkedln : https://www.linkedin.com/in/vighnesh-prabhu-ggwp/
-           Instagram : prabhu_vighnesh_
 
 <!---
 Kratosmsn11/Kratosmsn11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
